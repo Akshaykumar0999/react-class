@@ -9,7 +9,7 @@ const Products = () => (
     <Header />
     <div className="product-sections">
       <PrimeDealsSection />
-      <AllProductsSection />
+      <AllProductsSection className="me-4" />
     </div>
   </>
 )
